@@ -1,0 +1,38 @@
+{
+  "login": {
+    "mobile": "13800000002",
+    "password": "123456",
+    "stuat_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  "zj_emp": {
+    "name": "猪猪侠部门2",
+    "code": "009",
+    "manager": "小红",
+    "introduce": "吃货担当",
+    "pid": "",
+    "stuat_code": 200,
+    "success": true,
+    "code_1": 10000,
+    "message": "操作成功！"
+  },
+  "duanyan": {
+    "stuat_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  "upate_emp": {
+    "name": "小魔仙部门2",
+    "code": "011",
+    "manager": "小黄",
+    "introduces": "吃货",
+    "pid": "",
+    "stuat_code": 200,
+    "success": true,
+    "code_1": 10000,
+    "message": "操作成功！"
+  }
+}

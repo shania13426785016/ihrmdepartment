@@ -1,0 +1,9 @@
+2020-06-12 21:38:31,281 INFO [root] [__init__.py(<module>:6)] - 打印日志
+2020-06-12 21:38:31,466 INFO [root] [test_emp.py(TestIhrmEmp:23)] - 开始登陆
+2020-06-12 21:38:31,513 INFO [root] [test_emp.py(TestIhrmEmp:43)] - 开始新增部门
+2020-06-12 21:38:31,522 INFO [root] [test_emp.py(TestIhrmEmp:59)] - 查看新增的部门
+2020-06-12 21:38:31,531 INFO [root] [test_emp.py(TestIhrmEmp:68)] - 修改部门信息
+2020-06-12 21:38:31,539 INFO [root] [test_emp.py(TestIhrmEmp:82)] - 查看修改部门后的信息
+2020-06-12 21:38:31,547 INFO [root] [test_emp.py(TestIhrmEmp:90)] - 开始删除部门
+2020-06-12 21:38:31,556 INFO [root] [test_emp.py(TestIhrmEmp:99)] - 查看删除后的部门信息
+2020-06-12 21:38:31,685 INFO [root] [test_emp.py(test01_login_success:40)] - 登陆成功

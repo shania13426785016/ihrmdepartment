@@ -1,0 +1,2 @@
+2020-06-12 21:36:02,479 INFO [root] [__init__.py(<module>:6)] - 打印日志
+2020-06-12 21:36:02,656 INFO [root] [test_emp.py(TestIhrmEmp:23)] - 开始登陆
